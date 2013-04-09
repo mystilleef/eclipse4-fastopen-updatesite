@@ -14,11 +14,4 @@
 	<natures>
 		<nature>org.eclipse.pde.UpdateSiteNature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>README.md</name>
-			<type>1</type>
-			<location>/home/lateef/Eclipse/EclipseGitRepository/eclipse4-fastopen/README.md</location>
-		</link>
-	</linkedResources>
 </projectDescription>
