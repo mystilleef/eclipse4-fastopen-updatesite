@@ -3,5 +3,5 @@
    <description name="FastOpen">
       Open files very quickly in Eclipse 4.
    </description>
-   <feature url="features/com.laboki.eclipse.feature.fastopen_20130501.1.0.jar" id="com.laboki.eclipse.feature.fastopen" version="20130501.1"/>
+   <feature url="features/com.laboki.eclipse.feature.fastopen_20130502.2.0.jar" id="com.laboki.eclipse.feature.fastopen" version="20130502.2"/>
 </site>
