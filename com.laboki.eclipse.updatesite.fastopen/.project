@@ -3,6 +3,8 @@
 	<name>com.laboki.eclipse.updatesite.fastopen</name>
 	<comment></comment>
 	<projects>
+		<project>com.laboki.eclipse.feature.fastopen</project>
+		<project>com.laboki.eclipse.plugin.fastopen</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
